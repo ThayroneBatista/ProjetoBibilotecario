@@ -1,0 +1,138 @@
+C:\Users\Thayr\Desktop\ProjetoBibliotecario\Projeto Bibliotecario\bin\Debug\Projeto Bibliotecario.exe
+C:\Users\Thayr\Desktop\ProjetoBibliotecario\Projeto Bibliotecario\bin\Debug\Projeto Bibliotecario.pdb
+C:\Users\Thayr\Desktop\ProjetoBibliotecario\Projeto Bibliotecario\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Thayr\Desktop\ProjetoBibliotecario\Projeto Bibliotecario\obj\Debug\Projeto_Bibliotecario.frmAutor.resources
+C:\Users\Thayr\Desktop\ProjetoBibliotecario\Projeto Bibliotecario\obj\Debug\Projeto_Bibliotecario.frmCidade.resources
+C:\Users\Thayr\Desktop\ProjetoBibliotecario\Projeto Bibliotecario\obj\Debug\Projeto_Bibliotecario.frmConsultaPorAutor.resources
+C:\Users\Thayr\Desktop\ProjetoBibliotecario\Projeto Bibliotecario\obj\Debug\Projeto_Bibliotecario.frmConsultaPorCategoria.resources
+C:\Users\Thayr\Desktop\ProjetoBibliotecario\Projeto Bibliotecario\obj\Debug\Projeto_Bibliotecario.frmConsultaPorEditora.resources
+C:\Users\Thayr\Desktop\ProjetoBibliotecario\Projeto Bibliotecario\obj\Debug\Projeto_Bibliotecario.frmEstado.resources
+C:\Users\Thayr\Desktop\ProjetoBibliotecario\Projeto Bibliotecario\obj\Debug\Projeto_Bibliotecario.frmLogin.resources
+C:\Users\Thayr\Desktop\ProjetoBibliotecario\Projeto Bibliotecario\obj\Debug\Projeto_Bibliotecario.frmCategoria.resources
+C:\Users\Thayr\Desktop\ProjetoBibliotecario\Projeto Bibliotecario\obj\Debug\Projeto_Bibliotecario.frmControle.resources
+C:\Users\Thayr\Desktop\ProjetoBibliotecario\Projeto Bibliotecario\obj\Debug\Projeto_Bibliotecario.frmEditora.resources
+C:\Users\Thayr\Desktop\ProjetoBibliotecario\Projeto Bibliotecario\obj\Debug\Projeto_Bibliotecario.frmUsuario.resources
+C:\Users\Thayr\Desktop\ProjetoBibliotecario\Projeto Bibliotecario\obj\Debug\Projeto_Bibliotecario.Properties.Resources.resources
+C:\Users\Thayr\Desktop\ProjetoBibliotecario\Projeto Bibliotecario\obj\Debug\Projeto Bibliotecario.csproj.GenerateResource.Cache
+C:\Users\Thayr\Desktop\ProjetoBibliotecario\Projeto Bibliotecario\obj\Debug\Projeto Bibliotecario.exe
+C:\Users\Thayr\Desktop\ProjetoBibliotecario\Projeto Bibliotecario\obj\Debug\Projeto Bibliotecario.pdb
+C:\Documents and Settings\Administrador\Desktop\ProjetoBibliotecario\Projeto Bibliotecario\obj\Debug\Projeto Bibliotecario.exe
+C:\Documents and Settings\Administrador\Desktop\ProjetoBibliotecario\Projeto Bibliotecario\obj\Debug\Projeto Bibliotecario.pdb
+C:\Documents and Settings\Administrador\Desktop\ProjetoBibliotecario\Projeto Bibliotecario\bin\Debug\Projeto Bibliotecario.exe
+C:\Documents and Settings\Administrador\Desktop\ProjetoBibliotecario\Projeto Bibliotecario\bin\Debug\Projeto Bibliotecario.pdb
+C:\Documents and Settings\Administrador\Desktop\ProjetoBibliotecario\Projeto Bibliotecario\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Desktop\ProjetoBibliotecario\Projeto Bibliotecario\obj\Debug\Projeto_Bibliotecario.frmAutor.resources
+C:\Documents and Settings\Administrador\Desktop\ProjetoBibliotecario\Projeto Bibliotecario\obj\Debug\Projeto_Bibliotecario.frmCidade.resources
+C:\Documents and Settings\Administrador\Desktop\ProjetoBibliotecario\Projeto Bibliotecario\obj\Debug\Projeto_Bibliotecario.frmConsultaPorAutor.resources
+C:\Documents and Settings\Administrador\Desktop\ProjetoBibliotecario\Projeto Bibliotecario\obj\Debug\Projeto_Bibliotecario.frmConsultaPorCategoria.resources
+C:\Documents and Settings\Administrador\Desktop\ProjetoBibliotecario\Projeto Bibliotecario\obj\Debug\Projeto_Bibliotecario.frmConsultaPorEditora.resources
+C:\Documents and Settings\Administrador\Desktop\ProjetoBibliotecario\Projeto Bibliotecario\obj\Debug\Projeto_Bibliotecario.frmEstado.resources
+C:\Documents and Settings\Administrador\Desktop\ProjetoBibliotecario\Projeto Bibliotecario\obj\Debug\Projeto_Bibliotecario.frmLogin.resources
+C:\Documents and Settings\Administrador\Desktop\ProjetoBibliotecario\Projeto Bibliotecario\obj\Debug\Projeto_Bibliotecario.frmCategoria.resources
+C:\Documents and Settings\Administrador\Desktop\ProjetoBibliotecario\Projeto Bibliotecario\obj\Debug\Projeto_Bibliotecario.frmControle.resources
+C:\Documents and Settings\Administrador\Desktop\ProjetoBibliotecario\Projeto Bibliotecario\obj\Debug\Projeto_Bibliotecario.frmEditora.resources
+C:\Documents and Settings\Administrador\Desktop\ProjetoBibliotecario\Projeto Bibliotecario\obj\Debug\Projeto_Bibliotecario.frmUsuario.resources
+C:\Documents and Settings\Administrador\Desktop\ProjetoBibliotecario\Projeto Bibliotecario\obj\Debug\Projeto_Bibliotecario.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Desktop\ProjetoBibliotecario\Projeto Bibliotecario\obj\Debug\Projeto Bibliotecario.csproj.GenerateResource.Cache
+C:\Documents and Settings\uii002\Desktop\ProjetoBibliotecario\Projeto Bibliotecario\obj\Debug\Projeto Bibliotecario.exe
+C:\Documents and Settings\uii002\Desktop\ProjetoBibliotecario\Projeto Bibliotecario\obj\Debug\Projeto Bibliotecario.pdb
+C:\Documents and Settings\uii002\Desktop\ProjetoBibliotecario\Projeto Bibliotecario\bin\Debug\Projeto Bibliotecario.exe
+C:\Documents and Settings\uii002\Desktop\ProjetoBibliotecario\Projeto Bibliotecario\bin\Debug\Projeto Bibliotecario.pdb
+C:\Documents and Settings\uii002\Desktop\ProjetoBibliotecario\Projeto Bibliotecario\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\uii002\Desktop\ProjetoBibliotecario\Projeto Bibliotecario\obj\Debug\Projeto_Bibliotecario.frmAutor.resources
+C:\Documents and Settings\uii002\Desktop\ProjetoBibliotecario\Projeto Bibliotecario\obj\Debug\Projeto_Bibliotecario.frmCidade.resources
+C:\Documents and Settings\uii002\Desktop\ProjetoBibliotecario\Projeto Bibliotecario\obj\Debug\Projeto_Bibliotecario.frmConsultaPorAutor.resources
+C:\Documents and Settings\uii002\Desktop\ProjetoBibliotecario\Projeto Bibliotecario\obj\Debug\Projeto_Bibliotecario.frmConsultaPorCategoria.resources
+C:\Documents and Settings\uii002\Desktop\ProjetoBibliotecario\Projeto Bibliotecario\obj\Debug\Projeto_Bibliotecario.frmConsultaPorEditora.resources
+C:\Documents and Settings\uii002\Desktop\ProjetoBibliotecario\Projeto Bibliotecario\obj\Debug\Projeto_Bibliotecario.frmEstado.resources
+C:\Documents and Settings\uii002\Desktop\ProjetoBibliotecario\Projeto Bibliotecario\obj\Debug\Projeto_Bibliotecario.frmLogin.resources
+C:\Documents and Settings\uii002\Desktop\ProjetoBibliotecario\Projeto Bibliotecario\obj\Debug\Projeto_Bibliotecario.frmCategoria.resources
+C:\Documents and Settings\uii002\Desktop\ProjetoBibliotecario\Projeto Bibliotecario\obj\Debug\Projeto_Bibliotecario.frmControle.resources
+C:\Documents and Settings\uii002\Desktop\ProjetoBibliotecario\Projeto Bibliotecario\obj\Debug\Projeto_Bibliotecario.frmEditora.resources
+C:\Documents and Settings\uii002\Desktop\ProjetoBibliotecario\Projeto Bibliotecario\obj\Debug\Projeto_Bibliotecario.frmUsuario.resources
+C:\Documents and Settings\uii002\Desktop\ProjetoBibliotecario\Projeto Bibliotecario\obj\Debug\Projeto_Bibliotecario.Properties.Resources.resources
+C:\Documents and Settings\uii002\Desktop\ProjetoBibliotecario\Projeto Bibliotecario\obj\Debug\Projeto Bibliotecario.csproj.GenerateResource.Cache
+H:\ProjetoBibliotecario\Projeto Bibliotecario\obj\Debug\Projeto Bibliotecario.exe
+H:\ProjetoBibliotecario\Projeto Bibliotecario\obj\Debug\Projeto Bibliotecario.pdb
+H:\ProjetoBibliotecario\Projeto Bibliotecario\bin\Debug\Projeto Bibliotecario.exe
+H:\ProjetoBibliotecario\Projeto Bibliotecario\bin\Debug\Projeto Bibliotecario.pdb
+H:\ProjetoBibliotecario\Projeto Bibliotecario\obj\Debug\ResolveAssemblyReference.cache
+H:\ProjetoBibliotecario\Projeto Bibliotecario\obj\Debug\Projeto_Bibliotecario.frmAutor.resources
+H:\ProjetoBibliotecario\Projeto Bibliotecario\obj\Debug\Projeto_Bibliotecario.frmCidade.resources
+H:\ProjetoBibliotecario\Projeto Bibliotecario\obj\Debug\Projeto_Bibliotecario.frmConsultaPorAutor.resources
+H:\ProjetoBibliotecario\Projeto Bibliotecario\obj\Debug\Projeto_Bibliotecario.frmConsultaPorCategoria.resources
+H:\ProjetoBibliotecario\Projeto Bibliotecario\obj\Debug\Projeto_Bibliotecario.frmConsultaPorEditora.resources
+H:\ProjetoBibliotecario\Projeto Bibliotecario\obj\Debug\Projeto_Bibliotecario.frmEstado.resources
+H:\ProjetoBibliotecario\Projeto Bibliotecario\obj\Debug\Projeto_Bibliotecario.frmLogin.resources
+H:\ProjetoBibliotecario\Projeto Bibliotecario\obj\Debug\Projeto_Bibliotecario.frmCategoria.resources
+H:\ProjetoBibliotecario\Projeto Bibliotecario\obj\Debug\Projeto_Bibliotecario.frmControle.resources
+H:\ProjetoBibliotecario\Projeto Bibliotecario\obj\Debug\Projeto_Bibliotecario.frmEditora.resources
+H:\ProjetoBibliotecario\Projeto Bibliotecario\obj\Debug\Projeto_Bibliotecario.frmUsuario.resources
+H:\ProjetoBibliotecario\Projeto Bibliotecario\obj\Debug\Projeto_Bibliotecario.Properties.Resources.resources
+H:\ProjetoBibliotecario\Projeto Bibliotecario\obj\Debug\Projeto Bibliotecario.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Desktop\ProjetoBibliotecario\Projeto Bibliotecario\obj\Debug\Projeto_Bibliotecario.frmLivro.resources
+C:\Documents and Settings\Administrador\Desktop\ProjetoBibliotecario\Projeto Bibliotecario\obj\Debug\Projeto_Bibliotecario.frmEmprestimo.resources
+C:\Documents and Settings\Administrador\Desktop\ProjetoBibliotecario\Projeto Bibliotecario\obj\Debug\Projeto_Bibliotecario.frmTodos.resources
+C:\Documents and Settings\Administrador\Desktop\Thayrone\Projeto Bibliotecario\obj\Debug\Projeto Bibliotecario.exe
+C:\Documents and Settings\Administrador\Desktop\Thayrone\Projeto Bibliotecario\obj\Debug\Projeto Bibliotecario.pdb
+C:\Documents and Settings\Administrador\Desktop\Thayrone\Projeto Bibliotecario\bin\Debug\Projeto Bibliotecario.exe
+C:\Documents and Settings\Administrador\Desktop\Thayrone\Projeto Bibliotecario\bin\Debug\Projeto Bibliotecario.pdb
+C:\Documents and Settings\Administrador\Desktop\Thayrone\Projeto Bibliotecario\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Desktop\Thayrone\Projeto Bibliotecario\obj\Debug\Projeto_Bibliotecario.frmAutor.resources
+C:\Documents and Settings\Administrador\Desktop\Thayrone\Projeto Bibliotecario\obj\Debug\Projeto_Bibliotecario.frmCidade.resources
+C:\Documents and Settings\Administrador\Desktop\Thayrone\Projeto Bibliotecario\obj\Debug\Projeto_Bibliotecario.frmConsultaPorAutor.resources
+C:\Documents and Settings\Administrador\Desktop\Thayrone\Projeto Bibliotecario\obj\Debug\Projeto_Bibliotecario.frmConsultaPorCategoria.resources
+C:\Documents and Settings\Administrador\Desktop\Thayrone\Projeto Bibliotecario\obj\Debug\Projeto_Bibliotecario.frmConsultaPorEditora.resources
+C:\Documents and Settings\Administrador\Desktop\Thayrone\Projeto Bibliotecario\obj\Debug\Projeto_Bibliotecario.frmEmprestimo.resources
+C:\Documents and Settings\Administrador\Desktop\Thayrone\Projeto Bibliotecario\obj\Debug\Projeto_Bibliotecario.frmEstado.resources
+C:\Documents and Settings\Administrador\Desktop\Thayrone\Projeto Bibliotecario\obj\Debug\Projeto_Bibliotecario.frmLivro.resources
+C:\Documents and Settings\Administrador\Desktop\Thayrone\Projeto Bibliotecario\obj\Debug\Projeto_Bibliotecario.frmLogin.resources
+C:\Documents and Settings\Administrador\Desktop\Thayrone\Projeto Bibliotecario\obj\Debug\Projeto_Bibliotecario.frmCategoria.resources
+C:\Documents and Settings\Administrador\Desktop\Thayrone\Projeto Bibliotecario\obj\Debug\Projeto_Bibliotecario.frmControle.resources
+C:\Documents and Settings\Administrador\Desktop\Thayrone\Projeto Bibliotecario\obj\Debug\Projeto_Bibliotecario.frmEditora.resources
+C:\Documents and Settings\Administrador\Desktop\Thayrone\Projeto Bibliotecario\obj\Debug\Projeto_Bibliotecario.frmTodos.resources
+C:\Documents and Settings\Administrador\Desktop\Thayrone\Projeto Bibliotecario\obj\Debug\Projeto_Bibliotecario.frmUsuario.resources
+C:\Documents and Settings\Administrador\Desktop\Thayrone\Projeto Bibliotecario\obj\Debug\Projeto_Bibliotecario.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Desktop\Thayrone\Projeto Bibliotecario\obj\Debug\Projeto Bibliotecario.csproj.GenerateResource.Cache
+G:\Thayrone\Projeto Bibliotecario\obj\Debug\Projeto Bibliotecario.exe
+G:\Thayrone\Projeto Bibliotecario\obj\Debug\Projeto Bibliotecario.pdb
+G:\Thayrone\Projeto Bibliotecario\bin\Debug\Projeto Bibliotecario.exe
+G:\Thayrone\Projeto Bibliotecario\bin\Debug\Projeto Bibliotecario.pdb
+G:\Thayrone\Projeto Bibliotecario\obj\Debug\ResolveAssemblyReference.cache
+G:\Thayrone\Projeto Bibliotecario\obj\Debug\Projeto_Bibliotecario.frmAutor.resources
+G:\Thayrone\Projeto Bibliotecario\obj\Debug\Projeto_Bibliotecario.frmCidade.resources
+G:\Thayrone\Projeto Bibliotecario\obj\Debug\Projeto_Bibliotecario.frmConsultaPorAutor.resources
+G:\Thayrone\Projeto Bibliotecario\obj\Debug\Projeto_Bibliotecario.frmConsultaPorCategoria.resources
+G:\Thayrone\Projeto Bibliotecario\obj\Debug\Projeto_Bibliotecario.frmConsultaPorEditora.resources
+G:\Thayrone\Projeto Bibliotecario\obj\Debug\Projeto_Bibliotecario.frmEmprestimo.resources
+G:\Thayrone\Projeto Bibliotecario\obj\Debug\Projeto_Bibliotecario.frmEstado.resources
+G:\Thayrone\Projeto Bibliotecario\obj\Debug\Projeto_Bibliotecario.frmLivro.resources
+G:\Thayrone\Projeto Bibliotecario\obj\Debug\Projeto_Bibliotecario.frmLogin.resources
+G:\Thayrone\Projeto Bibliotecario\obj\Debug\Projeto_Bibliotecario.frmCategoria.resources
+G:\Thayrone\Projeto Bibliotecario\obj\Debug\Projeto_Bibliotecario.frmControle.resources
+G:\Thayrone\Projeto Bibliotecario\obj\Debug\Projeto_Bibliotecario.frmEditora.resources
+G:\Thayrone\Projeto Bibliotecario\obj\Debug\Projeto_Bibliotecario.frmTodos.resources
+G:\Thayrone\Projeto Bibliotecario\obj\Debug\Projeto_Bibliotecario.frmUsuario.resources
+G:\Thayrone\Projeto Bibliotecario\obj\Debug\Projeto_Bibliotecario.Properties.Resources.resources
+G:\Thayrone\Projeto Bibliotecario\obj\Debug\Projeto Bibliotecario.csproj.GenerateResource.Cache
+D:\Users\Thayrone\Desktop\Thayrone\Projeto Bibliotecario\obj\Debug\Projeto Bibliotecario.exe
+D:\Users\Thayrone\Desktop\Thayrone\Projeto Bibliotecario\obj\Debug\Projeto Bibliotecario.pdb
+D:\Users\Thayrone\Desktop\Thayrone\Projeto Bibliotecario\bin\Debug\Projeto Bibliotecario.exe
+D:\Users\Thayrone\Desktop\Thayrone\Projeto Bibliotecario\bin\Debug\Projeto Bibliotecario.pdb
+D:\Users\Thayrone\Desktop\Thayrone\Projeto Bibliotecario\obj\Debug\ResolveAssemblyReference.cache
+D:\Users\Thayrone\Desktop\Thayrone\Projeto Bibliotecario\obj\Debug\Projeto_Bibliotecario.frmAutor.resources
+D:\Users\Thayrone\Desktop\Thayrone\Projeto Bibliotecario\obj\Debug\Projeto_Bibliotecario.frmCidade.resources
+D:\Users\Thayrone\Desktop\Thayrone\Projeto Bibliotecario\obj\Debug\Projeto_Bibliotecario.frmConsultaPorAutor.resources
+D:\Users\Thayrone\Desktop\Thayrone\Projeto Bibliotecario\obj\Debug\Projeto_Bibliotecario.frmConsultaPorCategoria.resources
+D:\Users\Thayrone\Desktop\Thayrone\Projeto Bibliotecario\obj\Debug\Projeto_Bibliotecario.frmConsultaPorEditora.resources
+D:\Users\Thayrone\Desktop\Thayrone\Projeto Bibliotecario\obj\Debug\Projeto_Bibliotecario.frmEmprestimo.resources
+D:\Users\Thayrone\Desktop\Thayrone\Projeto Bibliotecario\obj\Debug\Projeto_Bibliotecario.frmEstado.resources
+D:\Users\Thayrone\Desktop\Thayrone\Projeto Bibliotecario\obj\Debug\Projeto_Bibliotecario.frmLivro.resources
+D:\Users\Thayrone\Desktop\Thayrone\Projeto Bibliotecario\obj\Debug\Projeto_Bibliotecario.frmLogin.resources
+D:\Users\Thayrone\Desktop\Thayrone\Projeto Bibliotecario\obj\Debug\Projeto_Bibliotecario.frmCategoria.resources
+D:\Users\Thayrone\Desktop\Thayrone\Projeto Bibliotecario\obj\Debug\Projeto_Bibliotecario.frmControle.resources
+D:\Users\Thayrone\Desktop\Thayrone\Projeto Bibliotecario\obj\Debug\Projeto_Bibliotecario.frmEditora.resources
+D:\Users\Thayrone\Desktop\Thayrone\Projeto Bibliotecario\obj\Debug\Projeto_Bibliotecario.frmTodos.resources
+D:\Users\Thayrone\Desktop\Thayrone\Projeto Bibliotecario\obj\Debug\Projeto_Bibliotecario.frmUsuario.resources
+D:\Users\Thayrone\Desktop\Thayrone\Projeto Bibliotecario\obj\Debug\Projeto_Bibliotecario.Properties.Resources.resources
+D:\Users\Thayrone\Desktop\Thayrone\Projeto Bibliotecario\obj\Debug\Projeto Bibliotecario.csproj.GenerateResource.Cache

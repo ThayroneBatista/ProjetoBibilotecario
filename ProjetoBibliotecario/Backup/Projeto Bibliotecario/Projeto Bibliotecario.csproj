@@ -1,0 +1,209 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{D303FA7B-7BCB-404C-9767-E4B4D6ED8B1C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Projeto_Bibliotecario</RootNamespace>
+    <AssemblyName>Projeto Bibliotecario</AssemblyName>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frmAutor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAutor.Designer.cs">
+      <DependentUpon>frmAutor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCidade.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCidade.Designer.cs">
+      <DependentUpon>frmCidade.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmConsultaPorEditora.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmConsultaPorEditora.Designer.cs">
+      <DependentUpon>frmConsultaPorEditora.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmConsultaPorAutor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmConsultaPorAutor.Designer.cs">
+      <DependentUpon>frmConsultaPorAutor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmConsultaPorCategoria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmConsultaPorCategoria.Designer.cs">
+      <DependentUpon>frmConsultaPorCategoria.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEmprestimo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEmprestimo.Designer.cs">
+      <DependentUpon>frmEmprestimo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEstado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEstado.Designer.cs">
+      <DependentUpon>frmEstado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLivro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLivro.Designer.cs">
+      <DependentUpon>frmLivro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCategoria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCategoria.Designer.cs">
+      <DependentUpon>frmCategoria.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmControle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmControle.Designer.cs">
+      <DependentUpon>frmControle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEditora.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEditora.Designer.cs">
+      <DependentUpon>frmEditora.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTodos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTodos.Designer.cs">
+      <DependentUpon>frmTodos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUsuario.Designer.cs">
+      <DependentUpon>frmUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmAutor.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmAutor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCidade.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmCidade.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmConsultaPorAutor.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmConsultaPorAutor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmConsultaPorCategoria.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmConsultaPorCategoria.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmConsultaPorEditora.resx">
+      <DependentUpon>frmConsultaPorEditora.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEmprestimo.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmEmprestimo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEstado.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmEstado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLivro.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmLivro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLogin.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCategoria.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmCategoria.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmControle.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmControle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEditora.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmEditora.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTodos.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmTodos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmUsuario.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
